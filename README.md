@@ -1,10 +1,8 @@
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZtcjYwc2kwcjgyeXE0bmxlc3RwODJlZXRodDJob3IzdXlkenI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
 <h2 align="left">Welcome!</h2>
 
-<div align="left">
-
 ###
-
-<div align="left">
 
 <h4 align="left">👋! My name is Jean Abreu</h4>
 
@@ -12,15 +10,7 @@
 
 <p align="left">I'm a Full-Stack focused in Laravel<br><br>Lover of Technology and coding ❤️</p>
 
-</div>
-
 ###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZtcjYwc2kwcjgyeXE0bmxlc3RwODJlZXRodDJob3IzdXlkenI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
-</div>
 
 <h2 align="left">Skills</h2>
 
