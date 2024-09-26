@@ -1,20 +1,12 @@
-<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZtcjYwc2kwcjgyeXE0bmxlc3RwODJlZXRodDJob3IzdXlkenI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  style="z-index: 1000;"/>
+<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZtcjYwc2kwcjgyeXE0bmxlc3RwODJlZXRodDJob3IzdXlkenI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="float: right; margin: 0 0 20px 20px;"/>
 
-<h2 align="left" style="clear: both;">Welcome!</h2>
+<h2 align="left">Welcome!</h2>
 
-###
+<h4 align="left">👋! My name is Jean Abreu</h4>
 
-<h4 align="left" style="clear: both;">👋! My name is Jean Abreu</h4>
-
-###
-
-<p align="left" style="clear: both;" >I'm a Full-Stack focused in Laravel<br><br>Lover of Technology and coding ❤️</p>
-
-###
+<p align="left">I'm a Full-Stack focused in Laravel<br><br>Lover of Technology and coding ❤️</p>
 
 <h2 align="left">Skills</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28" alt="laravel logo"  />
@@ -42,13 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="nextjs logo"  />
 </div>
 
-###
+<h2 align="left" style="clear: both;">About me</h2>
 
-<h2 align="left">About me</h2>
-
-###
-
-<div align="left">
+<div align="left" style="clear: both;">
   <a href="https://www.linkedin.com/in/jean-abreu-513b3318a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -68,5 +56,3 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-
-###
