@@ -1,14 +1,14 @@
 <img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZtcjYwc2kwcjgyeXE0bmxlc3RwODJlZXRodDJob3IzdXlkenI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  style="z-index: 1000;"/>
 
-<h2 align="left">Welcome!</h2>
+<h2 align="left" style="clear: both;">Welcome!</h2>
 
 ###
 
-<h4 align="left">👋! My name is Jean Abreu</h4>
+<h4 align="left" style="clear: both;">👋! My name is Jean Abreu</h4>
 
 ###
 
-<p align="left">I'm a Full-Stack focused in Laravel<br><br>Lover of Technology and coding ❤️</p>
+<p align="left" style="clear: both;" >I'm a Full-Stack focused in Laravel<br><br>Lover of Technology and coding ❤️</p>
 
 ###
 
